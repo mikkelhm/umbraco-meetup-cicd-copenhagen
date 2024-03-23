@@ -1,15 +1,16 @@
 {
   "Deploy": {
     "Project": {
-      "Name": "umbraco meetup cicd copenhagen",
-      "Alias": "umbraco-meetup-cicd-copenhagen",
+      "Name": "Umbraco Meetup - CICD - Github",
+      "Alias": "umbraco-meetup-cicd-github",
       "Id": "e623a1bf-fa6e-489a-b106-f0bcd137d7ed",
+      "Url": "https://www.s1.umbraco.io/project/umbraco-meetup-cicd-github",
       "Workspaces": [
         {
           "Id": "c90cdf2a-afbb-4dfc-810f-1cc55924d147",
           "Name": "Live",
           "Type": "live",
-          "Url": "https://umbraco-meetup-cicd-copenhagen.euwest01.umbraco.io"
+          "Url": "https://umbraco-meetup-cicd-github.euwest01.umbraco.io"
         }
       ]
     },
